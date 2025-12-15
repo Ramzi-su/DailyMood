@@ -1,4 +1,4 @@
-# Daily-mood-read-me
+# Daily-mood
 
 A new Flutter project.
 
