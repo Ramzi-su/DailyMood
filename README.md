@@ -8,7 +8,7 @@
 
 **DailyMood** est une application de journal émotionnel multiplateforme développée avec Flutter. Elle permet aux utilisateurs de suivre leur état d'esprit quotidien, d'ajouter des notes contextuelles et de recevoir des conseils personnalisés, le tout stocké localement pour une confidentialité totale.
 
-## 🚀 Fonctionnalités Clés
+##  Fonctionnalités Clés
 
 * **📝 Journaling Émotionnel :** Sélection intuitive d'humeurs via emojis (😄, 😐, 😢, 😠, 😍).
 * **💾 Persistance Locale :** Toutes les données sont stockées sur l'appareil via **SQLite** (aucune donnée ne part dans le cloud).
